@@ -70,7 +70,7 @@
                         :rules="[rules.required]"
                         required
                       ></v-textarea>
-                      <v-btn :disabled="!valid" type="submit" color="primary">Submit</v-btn>
+                      <v-btn :loading="loading" :disabled="!valid" type="submit" color="primary">Submit</v-btn>
                     </v-form>
                   </v-card-text>
                   </v-card>
@@ -109,7 +109,7 @@
                               }}
                             </v-icon>
                             {{
-                              comment.review == true ? "Positif Review" : "Negatif Review"
+                              comment.review == true ? "Positive review" : "Negative Review"
                             }}
                           </span>
                         </v-card-title>
@@ -140,6 +140,7 @@ const store = useStore()
 const authToken =  computed(() => store.state.moviesstore.authToken)
 const userAuth = computed(() => store.state.moviesstore.user)
 const valid = ref(false);
+const loading = ref(false);
 const props = defineProps({
   movieId: {
     type: Number,
@@ -177,12 +178,13 @@ const newComment = reactive({
 });
 
 const rules = {
-  required: (value) => !!value || "Ce champ est requis.",
+  required: (value) => !!value || "This field is required.",
   
 };
 
 // add comment
 const addComment = () => {
+  loading.value = true
   if (valid.value) {
     const newCommentObj = {
       user_name: newComment.author,
@@ -197,9 +199,13 @@ const addComment = () => {
         comments.value.push(response.data);
         newComment.author = "";
         newComment.content = "";
+        fetchComments()
+        loading.value = false
+
       })
       .catch((error) => {
         console.error('Erreur lors de l\'ajout du commentaire:', error);
+        loading.value = false
       });
   }
 };

@@ -47,7 +47,6 @@
 
 // Accéder au store
   const store = useStore()
-
   const router = useRouter();
   
   const valid = ref(false);
@@ -65,13 +64,16 @@
   ];
 
   const login = () => {
+    loading.value = true
   if (valid.value) {
     store.dispatch('moviesstore/login', { email: email.value, password: password.value })
       .then(response => {
+        loading.value = false
         router.push('/')
       })
       .catch(error => {
         console.error(error)
+        loading.value = false
       })
   }}
   </script>

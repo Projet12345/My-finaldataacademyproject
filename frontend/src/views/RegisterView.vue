@@ -45,11 +45,10 @@
   import { useRouter } from 'vue-router';
   
   const router = useRouter();
-  
+  const loading = ref(false);
   const valid = ref(false);
   const email = ref('');
   const password = ref('');
-  const loading = ref(false);
   
   const emailRules = [
     (v) => !!v || 'Email is required',
@@ -61,16 +60,18 @@
   ];
   
   const register = () => {
+    loading.value = true
   if (valid.value) {
-    loading.value = true;
     axios
       .post('/api/register', { email: email.value, password: password.value })
       .then(() => {
-        // Add your redirection or success message logic here
+        loading.value = false
+        router.push('/login')
+
       })
       .catch((error) => {
         console.error(error);
-        // Add your error handling logic here
+        loading.value = false
       })
       .finally(() => {
         loading.value = false;
