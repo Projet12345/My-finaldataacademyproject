@@ -32,5 +32,49 @@ This project is a complete web application for analyzing the sentiment of movie 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <REPOSITORY_URL>
-   cd <repository_name>
+   git clone <[REPOSITORY_URL](https://github.com/Projet12345/My-finaldataacademyproject.git)>
+   cd My-finaldataacademyproject
+
+2. **Install the Backend**:
+    - Create and activate a virtual environment:
+    python -m venv env
+    source env/bin/activate  # On Windows use `env\Scripts\activate`
+    - Install dependencies:
+    pip install -r requirements.txt
+    - Migrate the database:
+    python manage.py makemigrations
+    python manage.py migrate
+
+3. Install the Frontend:
+
+    Navigate to the frontend folder.
+    Install dependencies:
+    bash
+
+3. npm install
+
+   - Start the development server:
+   bash
+
+    npm run dev
+
+4. Run the Backend:
+
+    In the backend folder, start the server:
+    bash
+
+   - python manage.py runserver
+
+## Technologies Used
+   - Frontend: Vue.js, Vite
+   - Backend: Django, Django REST Framework
+   - Database: PostgreSQL
+   - Dataset: IMDB Dataset from Kaggle
+   - TMDB API
+
+Authors
+
+   - Anderson Nguetoum - [Linkedin](https://www.linkedin.com/in/anderson-nguetoum-likeufack-b8888124a/)
+
+
+
