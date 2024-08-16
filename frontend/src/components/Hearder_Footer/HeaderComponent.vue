@@ -7,7 +7,7 @@
           <v-btn to="/"><v-icon>mdi-home</v-icon></v-btn>
         </template>
 
-        <v-app-bar-title>Movies</v-app-bar-title>
+        <v-app-bar-title>Analysis of movie reviews</v-app-bar-title>
 
         
           <h4 v-if="authToken!=null" class="mr-2"> {{ user.email }}</h4>

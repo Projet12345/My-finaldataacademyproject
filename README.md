@@ -6,7 +6,7 @@ This project is a complete web application for analyzing the sentiment of movie 
 
 - **Frontend**:
   - Responsive user interface to explore movies.
-  - Listing of movies with ratings and details, integrating data from TMDB.
+  - Listing of movies, integrating data from TMDB.
   - User authentication system to allow users to leave comments.
 
 - **Backend**:
@@ -32,7 +32,7 @@ This project is a complete web application for analyzing the sentiment of movie 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <[REPOSITORY_URL](https://github.com/Projet12345/My-finaldataacademyproject.git)>
+   git clone https://github.com/Projet12345/My-finaldataacademyproject.git
    cd My-finaldataacademyproject
 
 2. **Install the Backend**:
@@ -71,6 +71,11 @@ This project is a complete web application for analyzing the sentiment of movie 
    - Database: PostgreSQL
    - Dataset: IMDB Dataset from Kaggle
    - TMDB API
+  
+## Local links
+   - Frontend: http://localhost:5173/
+   - API: http://localhost:8000/api/
+   - API Dcumentation: http://localhost:8000/api/docs/
 
 Authors
 
