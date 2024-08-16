@@ -11,7 +11,7 @@ export default {
     currentPage: 1,
     totalPages: 0,
     currentMovie: null,
-    token:"eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmNTA2MDk5Y2VlZjUyZWVjZjEyODgzMTE3MDcyY2M3YyIsIm5iZiI6MTcyMzExNTQzNi4wNDQ1MSwic3ViIjoiNjE3ZTdiNmRjYmEzNmYwMDQzZTY1NDNkIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.47k7N8tvLEyz2VHo7LySsp15zT8ucZfOJ8x_6tLf0PU"
+    token:"token"
   },
   mutations: {
     SET_AUTH_TOKEN(state, token) {
