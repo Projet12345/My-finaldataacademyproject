@@ -1,0 +1,109 @@
+Alice,42,278,This movie was fantastic! I loved every moment of it.
+Bob,15,238,Absolutely terrible! I can't believe I wasted my time.
+Charlie,67,240,Amazing film! Highly recommend watching it.
+David,89,424,I didn't enjoy this film at all; it was boring.
+Emma,34,389,What a great story! The characters were well developed.
+Frank,12,129,Not my cup of tea. I found it quite dull.
+Grace,75,19404,Incredible visuals and a gripping storyline!
+Hannah,53,155,It had potential, but the execution was poor.
+Isaac,90,496243,One of the best films I've ever seen!
+Jack,21,497,Very disappointing. I expected more from it.
+Katie,86,372058,The plot twists were so surprising and engaging!
+Leo,8,680,Wouldn't recommend it. It was a total letdown.
+Mia,27,122,Such an inspiring and uplifting film!
+Noah,39,13,The acting was subpar; I couldn't connect with the characters.
+Olivia,1,429,An absolute masterpiece. A must-see for everyone!
+Paul,44,769,The ending was predictable; very disappointed.
+Quinn,56,346,A beautiful story that touched my heart.
+Rachel,18,667257,I've seen better films, to be honest.
+Sam,72,12477,Worth watching! Kept me on the edge of my seat.
+Tina,66,637,The plot was bad. Would not watch again.
+Uma,10,278,Simply brilliant! I can't stop thinking about it.
+Victor,23,238,Very weak storyline; it dragged on too long.
+Wendy,33,240,Such a delightful film! It made me smile.
+Xander,19,424,Not engaging; I found myself checking the time.
+Yara,5,389,The cinematography was stunning!
+Zoe,14,129,The dialogue was unrealistic and cringe-worthy.
+Alan,11,19404,What a rollercoaster of emotions!
+Bella,25,155,The characters felt flat and uninteresting.
+Cody,37,496243,I loved the soundtrack! It really added to the experience.
+Diana,40,497,I was hoping for something better. It fell short.
+Ethan,56,12477,Best movie of the year! I can't recommend it enough.
+Sophia,14,637,I didn't like the ending; it felt rushed.
+Liam,22,429,The performances were incredible!
+Ava,45,680,So boring! I could barely finish it.
+Mason,81,19604,A wonderful journey from start to finish.
+Isabella,2,238,I expected more; it didn't live up to the hype.
+Lucas,29,240,An absolute delight! I'm buying the DVD.
+Mia,70,372058,Too predictable. I saw the twist coming.
+Oliver,9,346,What a masterpiece! I was in tears.
+Amelia,54,13,It had its moments but fell flat overall.
+Alexander,7,155,The visuals were stunning, but the plot was weak.
+Charlotte,37,497,Such a waste of time! I wouldn't watch it again.
+James,82,496243,An unforgettable experience! Loved it.
+Avery,38,280,The pacing was all off; very unengaging.
+Daniel,49,19404,Everything about this film was perfect!
+Ella,63,12477,Great characters and an even better storyline.
+Matthew,50,129,I had high hopes, but it let me down.
+Chloe,58,680,The humor didn't work for me; felt forced.
+Ryan,31,669257,Beautiful cinematography, but the script was lacking.
+Grace,16,372058,I loved the soundtrack! So fitting.
+Henry,15,122,Just an average film. Nothing special.
+Nora,68,240,A gripping story with fantastic performances!
+Jack,20,13,The movie was too long and dragged on.
+Scarlett,78,389,One of the best films I've seen in years!
+Jake,35,497,Disappointed; it was not what I expected.
+Lily,42,12477,A refreshing take on the genre!
+David,11,19404,This film deserves all the awards!
+Ella,5,346,Not great. I wouldn't recommend it.
+Gabriel,40,672,So happy I watched this! Highly recommend.
+Zoe,56,680,The storyline was confusing and poorly executed.
+Elijah,19,238,Such a fun movie! I couldn't stop laughing.
+Sofia,48,667257,It was a bit too long for my taste.
+Noah,82,889,The dialogue was cringeworthy at times.
+Aria,33,497,A beautifully crafted story.
+David,3,372058,Fell asleep halfway through; boring.
+Hudson,27,240,What a delightful surprise! So enjoyable.
+Lila,8,155,The plot twist made me gasp!
+Isaiah,62,638,Nothing stands out; very forgettable.
+Mila,23,13,So cheesy and unrealistic; I couldn't take it seriously.
+Evelyn,1,129,Spectacular performances by the cast!
+Owen,12,346,Simply magnificent! I was truly moved.
+Addison,36,19404,I found it really slow and tedious.
+Aiden,84,497,This film blew my mind! Such creativity.
+Penelope,24,238,A mediocre film with nothing new to offer.
+Jackson,46,240,Thrilling from start to finish! Highly engaging.
+Luna,67,372058,Could've been better; felt unfinished.
+Samuel,79,13,A boring storyline with flat characters.
+Ellie,18,122,A real gem! I loved every part of it.
+Caleb,99,680,Worst film I've seen this year. So disappointing.
+Audrey,4,19704,The cinematography was breathtaking.
+Wyatt,57,389,An exhilarating experience! I want to see it again!
+Clara,66,496243,Too many clichés; felt like a rehash.
+Oliver,30,12477,What an adventure! Absolutely loved it.
+Victoria,81,155,Not worth my time; very dull.
+Santiago,50,637,Great plot twist! Didn't see that coming.
+Savannah,5,268,Very entertaining and well-made!
+Levi,35,19404,I was on the edge of my seat!
+Delilah,39,12477,The worst movie ever! I regret watching it.
+Harrison,74,680,An incredible journey that touched my heart.
+Natalie,92,372058,A beautiful narrative that resonated with me.
+Gavin,2,238,What a letdown! I expected so much more.
+Lily,40,497,Unique storytelling! Highly recommend.
+Mateo,11,240,The dialogue was cringy at times; not enjoyable.
+Zara,80,129,I absolutely loved the ending!
+Henry,15,346,An emotional rollercoaster; very powerful!
+Alice,33,19404,Fascinating plot! I was hooked.
+Sophia,54,122,Gorgeous visuals, but lacked substance.
+Jaxon,63,680,Too much fluff. Not enough action.
+Isla,70,13,Classic! Always will be one of my favorites.
+Lena,10,155,The pacing was awful; I was bored.
+Eli,54,389,The plot was engaging and kept me guessing!
+Maria,8,497,Left me feeling empty; not satisfying.
+Jamie,17,12477,Such an innovative concept! Loved it.
+Carson,28,372058,A regular rom-com. Nothing special.
+Ruby,91,346,Well worth the watch! Great fun.
+Maria,7,19404,Just okay; I expected a lot more.
+Blake,43,238,The characters were relatable and well crafted.
+Holly,75,680,Very dull; I almost turned it off.
+Felix,34,240,What a disaster! I couldn't connect at all.

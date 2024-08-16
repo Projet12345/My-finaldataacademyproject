@@ -1,0 +1,16 @@
+# Fichiers de base de données
+/api/db.sqlite3
+
+/env
+/api/review_model
+/api/variables
+
+# Fichiers de journalisation et de débogage
+api/logs/
+
+# Fichiers temporaires et caches
+*.pyc
+__pycache__/
+
+# Fichiers spécifiques à votre environnement de développement local
+.env
